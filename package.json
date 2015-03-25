@@ -1,0 +1,19 @@
+{
+  "name": "volkadserver-maker",
+  "version": "1.0.0",
+  "description": "A service that pre-compiles list of active campaigns for ad servers to subscribe to",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/volkadserver/volkadserver-maker.git"
+  },
+  "author": "Nathan Hagen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volkadserver/volkadserver-maker/issues"
+  },
+  "homepage": "https://github.com/volkadserver/volkadserver-maker"
+}
