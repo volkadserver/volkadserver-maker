@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/volkadserver/volkadserver-maker/issues"
   },
-  "homepage": "https://github.com/volkadserver/volkadserver-maker"
+  "homepage": "https://github.com/volkadserver/volkadserver-maker",
+  "dependencies": {
+    "unirest": "^0.4.0"
+  }
 }
